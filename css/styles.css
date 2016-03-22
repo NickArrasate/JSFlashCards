@@ -1,0 +1,30 @@
+/*Jumbotron*/
+.jumbotron {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+.jumbotron h4 {
+  color: aquamarine;
+}
+
+.definition {
+  display: none;
+}
+
+h4:hover {
+  cursor: pointer;
+  color: aquamarine;
+  text-decoration: underline;
+}
+
+.placeholder .blank {
+  display: none;
+}
+.hide{
+  display: none;
+}
+
+.show {
+  display: block;
+}
